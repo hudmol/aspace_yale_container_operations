@@ -1,0 +1,4 @@
+en:
+  plugins:
+    bulk_container_operations:
+      label: Bulk Container Operations
