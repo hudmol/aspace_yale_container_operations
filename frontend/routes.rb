@@ -1,5 +1,5 @@
 ArchivesSpace::Application.routes.draw do
 
-  match('/plugins/bulk_container_operations' => 'bulk_container_operations#index', :via => [:get])
+  match('/plugins/aspace_yale_container_operations' => 'aspace_yale_container_operations#index', :via => [:get])
 
 end

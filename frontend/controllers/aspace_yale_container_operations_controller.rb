@@ -1,4 +1,4 @@
-class BulkContainerOperationsController < ApplicationController
+class AspaceYaleContainerOperationsController < ApplicationController
 
   set_access_control "update_resource_record" => [:index]
 

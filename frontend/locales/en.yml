@@ -1,4 +1,4 @@
 en:
   plugins:
-    bulk_container_operations:
+    aspace_yale_container_operations:
       label: Bulk Container Operations
